@@ -1,8 +1,7 @@
 # 博客 
 
-***
-
 Email:IamMonkey@aliyun.com
+
 QQ:755177977
 
 ***
@@ -11,7 +10,7 @@ QQ:755177977
 
 ***
 
-##类别
+## 类别
 
  * [物理学](/physics/READEME.md)
  * [计算机](/computer/READEME.md)
