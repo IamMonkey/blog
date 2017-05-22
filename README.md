@@ -12,4 +12,4 @@ QQ:755177977
 ## 类别
 
  * [物理学](/physics/content.md)
- * [计算机](/computer/content.md)
+ * [计算机](/computer)
