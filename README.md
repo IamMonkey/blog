@@ -12,4 +12,4 @@ QQ:755177977
 ## 类别
 
  * [物理学](https://github.com/IamMonkey/blog/physics/READEME.md)
- * [计算机](https://github.com/IamMonkey/blog/computer/READEME.md)
+ * [计算机](/computer/content.md)
